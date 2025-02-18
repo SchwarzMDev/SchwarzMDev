@@ -21,7 +21,7 @@ with plans to expand into **backend technologies**.
 
 ## **📂 Projects**  
 
-🔹 [**Calculator App**](https://github.com/schwarzMDev/taschenrechner) – A simple JavaScript-based calculator 
+🔹 [**Calculator App**](https://github.com/SchwarzMDev/Calculator.git) – A simple JavaScript-based calculator 
 
 ---
 
