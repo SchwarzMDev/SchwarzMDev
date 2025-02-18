@@ -33,6 +33,12 @@ with plans to expand into **backend technologies**.
 
 ---
 
+## **📊 Language Usage**  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schwarzMDev&layout=compact&theme=github_dark&langs_count=6)
+
+---
+
 <!-- ## **📫 Contact Me**  
 
 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
