@@ -1,8 +1,8 @@
 # **👋 Hi, there I'm Max!**  
 
-I'm a **career changer transitioning into software development** with a background in **biotechnology**.  
+<!--I'm a **career changer transitioning into software development** with a background in **biotechnology**.  
 My focus is on **web development**, and I am currently learning **JavaScript, HTML, CSS, and Git**,  
-with plans to expand into **backend technologies**.  
+with plans to expand into **backend technologies**.-->
 
 ---
 
